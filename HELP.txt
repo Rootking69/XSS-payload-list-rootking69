@@ -1,0 +1,1 @@
+This is a payload for XSS just use it ONLY FOR EDUCATIONAL PORPOUSE !!!!!!
